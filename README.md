@@ -43,3 +43,4 @@ python3 main_certificate.py
 # Certificate View
 ![Certificate Generater](https://github.com/Harish-Reddy-Duggempudi/MLSA_CERTIFICATE_GENERATOR/blob/af22f429bc59fca2f6def7588f7f3dfa186b5930/screenshot/Screenshot%202024-12-22%20233132.png)
 
+**By Harish Reddy Duggempudi**
